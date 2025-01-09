@@ -56,5 +56,5 @@ if __name__ == "__main__":
     #test_compobar_palabra_completa('python', {'a', 'b', 'c', 'd', 'e'})
     #test_compobar_palabra_completa('python', {})
     #test_ejecutar_turno('python', {'a', 'b', 'c', 'd', 'e'})
-    #test_ejecutar_turno('python', {'p', 'y', 't', 'h', 'o'})
+    test_ejecutar_turno('python', {'p', 'y', 't', 'h', 'o'})
    
